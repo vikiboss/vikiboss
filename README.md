@@ -27,9 +27,16 @@ I'm Viki, a `Front-End` bug coder.
 [![](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
 [![](https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
+<table width="800px">
+<tr>
+<td align="center" valign="middle" width="50%">
+
 #### 🔤 Top Lang
 
 ![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=vikiboss&layout=compact)
+
+</td>
+<td align="center" valign="middle" width="50%">
 
 #### 🔢 Visits
 
@@ -41,4 +48,7 @@ I'm Viki, a `Front-End` bug coder.
 
 📫 `"vikiboss#qq.com".replace("#", "@");`
 
+</td>
+</tr>
+</table>
 
