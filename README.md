@@ -27,8 +27,14 @@ I'm Viki, a `Front-End` bug coder.
 [![](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
 [![](https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
+#### 🔤 Top Lang
+
+![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=vikiboss&layout=compact)
+
 ### 💬 Ask me anything.
 
 🐧 `"8574821411".split("").reverse().join("");`
 
 📫 `"vikiboss#qq.com".replace("#", "@");`
+
+> visit counts <img src="https://profile-counter.glitch.me/vikiboss/count.svg" />
