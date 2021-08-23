@@ -1,4 +1,4 @@
-### 👋 Hi, there.
+# 👋 Hi, there.
 
 I'm Viki, a `Front-End` bug coder.
 
@@ -7,7 +7,7 @@ I'm Viki, a `Front-End` bug coder.
 <tr>
 <td width="50%">
   
-#### 💻 Platforms
+### 💻 Platforms
 
 [![](https://img.shields.io/badge/Windows-11-00a8e8?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/zh-cn/windows/windows-11)
 [![](https://img.shields.io/badge/iOS-14-blue?style=flat-square&logo=ios&logoColor=ffffff)](https://www.apple.com/ios/ios-14/)
@@ -21,14 +21,14 @@ I'm Viki, a `Front-End` bug coder.
 </td>
 <td width="50%">
 
-#### 🔧 Tools
+### 🔧 Tools
 
 [![](https://img.shields.io/badge/-Visual%20Studio%20Code-1d89d2?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/-Windows%20Terminal-333333?style=flat-square&logo=WindowsTerminal&logoColor=ffffff)](https://www.microsoft.com/zh-cn/p/windows-terminal/9n0dx20hk701)
 [![](https://img.shields.io/badge/-Goole%20Chrome-4c8bf4?style=flat-square&logo=GoogleChrome&logoColor=ffffff)](https://google.cn/chrome/)
 [![](https://img.shields.io/badge/-Termux-000000?style=flat-square&logo=WindowsTerminal&logoColor=ffffff)](https://termux.com/)
 
-#### 🌟 Skills
+### 🌟 Skills
 
 [![](https://img.shields.io/badge/-JavaScript-f7a326?style=flat-square&logo=javascript&logoColor=ffffff)](https://www.ecma-international.org/)
 [![](https://img.shields.io/badge/-React-33aaff?style=flat-square&logo=react&logoColor=ffffff)](https://reactjs.org/)
@@ -41,14 +41,14 @@ I'm Viki, a `Front-End` bug coder.
 <tr>
 <td width="50%">
 
-#### 🔤 Top Lang
+### 🔤 Top Lang
 
 ![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=vikiboss&layout=compact)
 
 </td>
 <td width="50%">
 
-#### 🔢 Visits
+### 🔢 Visits
 
 <img src="https://profile-counter.glitch.me/vikiboss/count.svg" />
 
