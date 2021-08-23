@@ -21,14 +21,12 @@ I'm Viki, a `Front-End` bug coder.
 </td>
 <td width="50%">
 
-### 🔧 Tools
+### 🔧 Tools & Skills
 
 [![](https://img.shields.io/badge/-Visual%20Studio%20Code-1d89d2?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/-Windows%20Terminal-333333?style=flat-square&logo=WindowsTerminal&logoColor=ffffff)](https://www.microsoft.com/zh-cn/p/windows-terminal/9n0dx20hk701)
 [![](https://img.shields.io/badge/-Goole%20Chrome-4c8bf4?style=flat-square&logo=GoogleChrome&logoColor=ffffff)](https://google.cn/chrome/)
 [![](https://img.shields.io/badge/-Termux-000000?style=flat-square&logo=WindowsTerminal&logoColor=ffffff)](https://termux.com/)
-
-### 🌟 Skills
 
 [![](https://img.shields.io/badge/-JavaScript-f7a326?style=flat-square&logo=javascript&logoColor=ffffff)](https://www.ecma-international.org/)
 [![](https://img.shields.io/badge/-React-33aaff?style=flat-square&logo=react&logoColor=ffffff)](https://reactjs.org/)
