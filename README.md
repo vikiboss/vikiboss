@@ -39,9 +39,11 @@ I'm Viki, a `Front-End` bug coder.
 <tr>
 <td width="50%" valign="top">
 
-### 🔤 Top Lang
+### 💬 Ask me anything.
 
-![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=vikiboss&layout=compact)
+🐧 `"8574821411".split("").reverse().join("");`
+
+📫 `"vikiboss#qq.com".replace("#", "@");`
 
 </td>
 <td width="50%" valign="top">
@@ -50,11 +52,9 @@ I'm Viki, a `Front-End` bug coder.
 
 <img src="https://profile-counter.glitch.me/vikiboss/count.svg" />
 
-### 💬 Ask me anything.
+### 🔤 Top Lang
 
-🐧 `"8574821411".split("").reverse().join("");`
-
-📫 `"vikiboss#qq.com".replace("#", "@");`
+![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=vikiboss&layout=compact)
 
 </td>
 </tr>
