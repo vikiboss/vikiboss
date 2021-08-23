@@ -29,14 +29,14 @@ I'm Viki, a `Front-End` bug coder.
 
 <table width="800px">
 <tr>
-<td align="center" valign="middle" width="50%">
+<td align="center" width="50%">
 
 #### 🔤 Top Lang
 
 ![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=vikiboss&layout=compact)
 
 </td>
-<td align="center" valign="middle" width="50%">
+<td align="center" width="50%">
 
 #### 🔢 Visits
 
