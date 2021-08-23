@@ -37,14 +37,14 @@ I'm Viki, a `Front-End` bug coder.
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🔤 Top Lang
 
 ![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=vikiboss&layout=compact)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🔢 Visits
 
