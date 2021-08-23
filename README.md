@@ -48,13 +48,11 @@ I'm Viki, a `Front-End` bug coder.
 </td>
 <td width="50%" valign="top">
 
-### 🔢 Visits
-
-<img src="https://profile-counter.glitch.me/vikiboss/count.svg" />
-
 ### 🔤 Top Lang
 
 ![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=vikiboss&layout=compact)
+
+<img src="https://profile-counter.glitch.me/vikiboss/count.svg" />
 
 </td>
 </tr>
