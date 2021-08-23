@@ -45,14 +45,14 @@ I'm Viki, a `Front-End` bug coder.
 
 📫 `"vikiboss#qq.com".replace("#", "@");`
 
+<img src="https://profile-counter.glitch.me/vikiboss/count.svg" />
+
 </td>
 <td width="50%" valign="top">
 
 ### 🔤 Top Lang
 
 ![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=vikiboss&layout=compact)
-
-<img src="https://profile-counter.glitch.me/vikiboss/count.svg" />
 
 </td>
 </tr>
