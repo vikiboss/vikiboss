@@ -20,7 +20,7 @@ I'm Viki, a `Front-End` bug coder.
 [![](https://img.shields.io/badge/-Goole%20Chrome-4c8bf4?style=flat-square&logo=GoogleChrome&logoColor=ffffff)](https://google.cn/chrome/)
 [![](https://img.shields.io/badge/-Termux-000000?style=flat-square&logo=WindowsTerminal&logoColor=ffffff)](https://termux.com/)
 
-#### 🌟Skills
+#### 🌟 Skills
 
 [![](https://img.shields.io/badge/-JavaScript-f7a326?style=flat-square&logo=javascript&logoColor=ffffff)](https://www.ecma-international.org/)
 [![](https://img.shields.io/badge/-React-33aaff?style=flat-square&logo=react&logoColor=ffffff)](https://reactjs.org/)
@@ -29,4 +29,4 @@ I'm Viki, a `Front-End` bug coder.
 
 #### 💬 Ask me anything.
 
-📫 E-mail: `"vikiboss#qq.com".replace("#", "@");`
+📫 `"vikiboss#qq.com".replace("#", "@");`
