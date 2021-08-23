@@ -5,8 +5,8 @@ I'm Viki, a `Front-End` bug coder.
 #### 💻 Platforms
 
 [![](https://img.shields.io/badge/Windows-11-00a8e8?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/zh-cn/windows/windows-11)
-[![](https://img.shields.io/badge/Android-11-30d780?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-11/)
 [![](https://img.shields.io/badge/iOS-14-blue?style=flat-square&logo=ios&logoColor=ffffff)](https://www.apple.com/ios/ios-14/)
+[![](https://img.shields.io/badge/Android-11-30d780?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-11/)
 [![](https://img.shields.io/badge/Linux-Arch-f7a326?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://archlinux.org/)
 
 [![](https://img.shields.io/badge/Lenovo/Xiaoxin-Pro%2013-e52928?style=flat-square&logo=lenovo&logoColor=ffffff)](https://s.lenovo.com.cn/search/?cat=293-294-296-1525)
