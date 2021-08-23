@@ -31,10 +31,14 @@ I'm Viki, a `Front-End` bug coder.
 
 ![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=vikiboss&layout=compact)
 
+#### 🔢 Visits
+
+<img src="https://profile-counter.glitch.me/vikiboss/count.svg" />
+
 ### 💬 Ask me anything.
 
 🐧 `"8574821411".split("").reverse().join("");`
 
 📫 `"vikiboss#qq.com".replace("#", "@");`
 
-> visit counts <img src="https://profile-counter.glitch.me/vikiboss/count.svg" />
+
