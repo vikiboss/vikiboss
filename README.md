@@ -65,3 +65,7 @@ console.info(QQ, WX, Email);
 
 </table>
 
+
+### Genshin Impact
+
+![Genshin Impact](https://genshin-card.getloli.com/rand/321901921.png)
