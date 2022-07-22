@@ -2,11 +2,10 @@
 
 I'm Viki, a `Front-End` bug coder.
 
-<table width="800px">
+### 🔤 Top Lang
 
-<tr>
-<td width="50%">
-  
+![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=vikiboss&layout=compact)
+
 ### 💻 Platforms
 
 [![](https://img.shields.io/badge/Windows-11-00a8e8?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/zh-cn/windows/windows-11)
@@ -17,9 +16,6 @@ I'm Viki, a `Front-End` bug coder.
 [![](https://img.shields.io/badge/Lenovo/Xiaoxin-Pro%2013-e52928?style=flat-square&logo=lenovo&logoColor=ffffff)](https://s.lenovo.com.cn/search/?cat=293-294-296-1525)
 [![](https://img.shields.io/badge/iPhone-SE2-ffffff?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com.cn/iphone-se/)
 [![](https://img.shields.io/badge/Xiaomi-9%20SE-ff6700?style=flat-square&logo=xiaomi&logoColor=ffffff)](http://www.mi.com/mi9se)
-
-</td>
-<td width="50%">
 
 ### 🔧 Tools & Skills
 
@@ -33,11 +29,9 @@ I'm Viki, a `Front-End` bug coder.
 [![](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
 [![](https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
-</td>
-</tr>
+### 🎮 Genshin Impact Player
 
-<tr>
-<td width="50%" valign="top">
+![Genshin Impact](https://genshin-card.getloli.com/rand/321901921.png)
 
 ### 💬 Ask me anything.
 
@@ -51,21 +45,4 @@ const Email = "Email：viki[x]$qq.com".replace(/\[x]\$/, "boss@");
 console.info(QQ, WX, Email);
 ```
 
-<img src="https://profile-counter.glitch.me/vikiboss/count.svg" />
-
-</td>
-<td width="50%" valign="top">
-
-### 🔤 Top Lang
-
-![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=vikiboss&layout=compact)
-
-</td>
-</tr>
-
-</table>
-
-
-### Genshin Impact
-
-![Genshin Impact](https://genshin-card.getloli.com/rand/321901921.png)
+<img width="0" height="0" src="https://profile-counter.glitch.me/vikiboss/count.svg" />
