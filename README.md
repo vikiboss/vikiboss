@@ -2,6 +2,8 @@
 
 I'm Viki, a `Front-End` bug coder.
 
+![Viki's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikiboss&show_icons=true)
+
 ### 🔤 Top Langs
 
 ![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=vikiboss&layout=compact)
