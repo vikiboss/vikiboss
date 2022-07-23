@@ -32,5 +32,5 @@ const WX = "WX：Viki" + subfix.join("");
 const Email = "Email：viki[x]$qq.com".replace(/\[x]\$/, "boss@");
 console.info(QQ, WX, Email);
 ```
-
+![](https://komarev.com/ghpvc/?username=vikiboss&color=green)
 <img width="0" height="0" src="https://profile-counter.glitch.me/vikiboss/count.svg" />
