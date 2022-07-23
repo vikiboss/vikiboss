@@ -6,7 +6,7 @@ I'm Viki, a `Front-End` bug coder.
 
 ### 🔤 Top Langs
 
-![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=vikiboss&layout=compact)
+![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=vikiboss&layout=compact&hide=html)
 
 ### 🔧 Tools & Skills
 
