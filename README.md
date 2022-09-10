@@ -26,13 +26,7 @@ I'm Viki, a `Front-End` bug coder.
 ### 💬 Ask me anything
 
 ```js
-const fn = (e) => Number(e) + 1;
-const subfix = "QQ".split("");
-subfix.splice(1, 0, "A");
-const QQ = "QQ：" + "7463710300".split("").map(fn).reverse().join("");
-const WX = "WX：Viki" + subfix.join("");
-const Email = "Email：viki[x]$qq.com".replace(/\[x]\$/, "boss@");
-console.info(QQ, WX, Email);
+'vikiboss#qq.com'.replace('#', '@');
 ```
 ![](https://komarev.com/ghpvc/?username=vikiboss&color=green)
 <img width="0" height="0" src="https://profile-counter.glitch.me/vikiboss/count.svg" />
