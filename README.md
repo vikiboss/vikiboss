@@ -1,34 +1,32 @@
-# 👋 Hi, there.
+<style>
+  div {
+    text-align: center;
+  }
+</style>
 
-I'm Viki, a `Front-End` bug coder.
+# 👋 Hi there!
 
-![Viki's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikiboss&show_icons=true)
+I'm **Viki**, a `Front-End` bug coder. Nice to meet you here.
 
-### 🔤 Top Langs
+[![badge](https://img.shields.io/badge/-JavaScript-f7a326?style=flat-square&logo=javascript&logoColor=ffffff)](https://www.ecma-international.org/)
+[![badge](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
+[![badge](https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![badge](https://img.shields.io/badge/-React-33aaff?style=flat-square&logo=react&logoColor=ffffff)](https://reactjs.org/)
+[![badge](https://img.shields.io/badge/-Electron-51727d?style=flat-square&logo=electron&logoColor=white)](https://www.electronjs.org/)
 
-![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=vikiboss&layout=compact&hide=html)
+[![badge](https://img.shields.io/badge/-Visual%20Studio%20Code-1d89d2?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
+[![badge](https://img.shields.io/badge/-Windows%20Terminal-333333?style=flat-square&logo=WindowsTerminal&logoColor=ffffff)](https://www.microsoft.com/zh-cn/p/windows-terminal/9n0dx20hk701)
+[![badge](https://img.shields.io/badge/-Goole%20Chrome-4c8bf4?style=flat-square&logo=GoogleChrome&logoColor=ffffff)](https://google.cn/chrome/)
+[![badge](https://img.shields.io/badge/-Termux-000000?style=flat-square&logo=WindowsTerminal&logoColor=ffffff)](https://termux.com/)
 
-### 🔧 Tools & Skills
+![Viki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikiboss&show_icons=true)
 
-[![](https://img.shields.io/badge/-Visual%20Studio%20Code-1d89d2?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
-[![](https://img.shields.io/badge/-Windows%20Terminal-333333?style=flat-square&logo=WindowsTerminal&logoColor=ffffff)](https://www.microsoft.com/zh-cn/p/windows-terminal/9n0dx20hk701)
-[![](https://img.shields.io/badge/-Goole%20Chrome-4c8bf4?style=flat-square&logo=GoogleChrome&logoColor=ffffff)](https://google.cn/chrome/)
-[![](https://img.shields.io/badge/-Termux-000000?style=flat-square&logo=WindowsTerminal&logoColor=ffffff)](https://termux.com/)
+---
 
-[![](https://img.shields.io/badge/-JavaScript-f7a326?style=flat-square&logo=javascript&logoColor=ffffff)](https://www.ecma-international.org/)
-[![](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
-[![](https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![](https://img.shields.io/badge/-React-33aaff?style=flat-square&logo=react&logoColor=ffffff)](https://reactjs.org/)
-[![](https://img.shields.io/badge/-Electron-51727d?style=flat-square&logo=electron&logoColor=white)](https://www.electronjs.org/)
-
-### 🎮 Genshin Impact Player
-
-![Genshin Impact](https://genshin-card.getloli.com/rand/321901921.png)
-
-### 💬 Ask me anything
+![Genshin Impact Player](https://genshin-card.getloli.com/rand/321901921.png)
 
 ```js
 'vikiboss#qq.com'.replace('#', '@');
 ```
+
 ![](https://komarev.com/ghpvc/?username=vikiboss&color=green)
-<img width="0" height="0" src="https://profile-counter.glitch.me/vikiboss/count.svg" />
