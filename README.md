@@ -1,9 +1,3 @@
-<style>
-  div {
-    text-align: center;
-  }
-</style>
-
 # 👋 Hi there!
 
 I'm **Viki**, a `Front-End` bug coder. Nice to meet you here.
