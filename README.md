@@ -14,10 +14,12 @@ I'm Viki, a `Front-End` bug coder.
 [![](https://img.shields.io/badge/-Windows%20Terminal-333333?style=flat-square&logo=WindowsTerminal&logoColor=ffffff)](https://www.microsoft.com/zh-cn/p/windows-terminal/9n0dx20hk701)
 [![](https://img.shields.io/badge/-Goole%20Chrome-4c8bf4?style=flat-square&logo=GoogleChrome&logoColor=ffffff)](https://google.cn/chrome/)
 [![](https://img.shields.io/badge/-Termux-000000?style=flat-square&logo=WindowsTerminal&logoColor=ffffff)](https://termux.com/)
+
 [![](https://img.shields.io/badge/-JavaScript-f7a326?style=flat-square&logo=javascript&logoColor=ffffff)](https://www.ecma-international.org/)
-[![](https://img.shields.io/badge/-React-33aaff?style=flat-square&logo=react&logoColor=ffffff)](https://reactjs.org/)
 [![](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
 [![](https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![](https://img.shields.io/badge/-React-33aaff?style=flat-square&logo=react&logoColor=ffffff)](https://reactjs.org/)
+[![](https://img.shields.io/badge/-Electron-51727d?style=flat-square&logo=electron&logoColor=white)](https://www.electronjs.org/)
 
 ### 🎮 Genshin Impact Player
 
