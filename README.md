@@ -11,7 +11,7 @@ I'm **Viki**, a `Front-End` bug coder. Nice to meet you here.
 [![badge](https://img.shields.io/badge/-Visual%20Studio%20Code-1d89d2?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 [![badge](https://img.shields.io/badge/-Windows%20Terminal-333333?style=flat-square&logo=WindowsTerminal&logoColor=ffffff)](https://www.microsoft.com/zh-cn/p/windows-terminal/9n0dx20hk701)
 [![badge](https://img.shields.io/badge/-Goole%20Chrome-4c8bf4?style=flat-square&logo=GoogleChrome&logoColor=ffffff)](https://google.cn/chrome/)
-[![badge](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=ffc702)](https://linux.org/)
+[![badge](https://img.shields.io/badge/-Linux-ffc702?style=flat-square&logo=linux&logoColor=ffffff)](https://linux.org/)
 
 ![Viki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikiboss&show_icons=true)
 
