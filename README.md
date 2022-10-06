@@ -18,7 +18,7 @@ I'm **Viki**, a `Front-End` bug coder. Nice to meet you here.
 
 ---
 
-![Genshin Impact Player](https://genshin-card.getloli.com/rand/321901921.png)
+![Genshin Impact Player](https://genshin-card.getloli.com/detail/rand/321901921.png)
 
 ```js
 'vikiboss#qq.com'.replace('#', '@');
