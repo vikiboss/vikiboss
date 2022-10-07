@@ -24,4 +24,4 @@ I'm **Viki**, a `Front-End` bug coder. Nice to meet you here.
 'vikiboss#qq.com'.replace('#', '@');
 ```
 
-![](https://komarev.com/ghpvc/?username=vikiboss&color=green)
+![](https://komarev.com/ghpvc/?username=vikiboss&color=orange&label=Profile%20Hits)
