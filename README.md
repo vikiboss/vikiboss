@@ -20,8 +20,4 @@ I'm **Viki**, a `Front-End` bug coder. Nice to meet you here.
 
 ![Genshin Impact Player](https://genshin-card.getloli.com/detail/rand/321901921.png)
 
-```js
-'i#viki.moe'.replace('#', '@');
-```
-
 ![](https://komarev.com/ghpvc/?username=vikiboss&color=orange)
