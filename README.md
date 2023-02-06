@@ -20,6 +20,6 @@ A Front-End bug coder, full of passion and love for the FE.
 
 ---
 
-![Genshin Impact Player](https://genshin-card.getloli.com/rand/321901921.png)
+![Genshin Impact Player](https://genshin-card.himiku.com/rand/321901921.png)
 
 ![](https://komarev.com/ghpvc/?username=vikiboss&color=orange)
