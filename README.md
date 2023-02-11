@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Viki** !
 
-A Front-End bug coder, full of passion and love for the FE.
+A Front-End bug coder, full of passion and love about the `FE`.
 
 [![badge](https://img.shields.io/badge/-JavaScript-f7a326?style=flat-square&logo=javascript&logoColor=ffffff)](https://www.ecma-international.org/)
 [![badge](https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
