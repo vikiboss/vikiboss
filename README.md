@@ -16,10 +16,4 @@ A Front-End bug coder, full of passion and love about the `FE`.
 [![badge](https://img.shields.io/badge/-Windows%20Terminal-333333?style=flat-square&logo=WindowsTerminal&logoColor=ffffff)](https://www.microsoft.com/zh-cn/p/windows-terminal/9n0dx20hk701)
 [![badge](https://img.shields.io/badge/-Google%20Chrome-4c8bf4?style=flat-square&logo=GoogleChrome&logoColor=ffffff)](https://google.cn/chrome/)
 
-![Viki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikiboss&show_icons=true)
-
----
-
-![Genshin Impact Player](https://genshin-card.himiku.com/rand/321901921.png)
-
 ![](https://komarev.com/ghpvc/?username=vikiboss&color=orange)
