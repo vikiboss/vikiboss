@@ -11,6 +11,7 @@ A Front-End bug coder, full of passion and love about the `FE`.
 [![badge](https://img.shields.io/badge/-Electron-51727d?style=flat-square&logo=electron&logoColor=white)](https://www.electronjs.org/)
 [![badge](https://img.shields.io/badge/-Vue-42b883?style=flat-square&logo=vue.js&logoColor=ffffff)](https://vuejs.org/)
 
+[![badge](https://img.shields.io/badge/-MacBook%20Pro-eeeeee?style=flat-square&logo=Apple&logoColor=333333)](https://www.apple.com.cn/macbook-pro)
 [![badge](https://img.shields.io/badge/-Visual%20Studio%20Code-1d89d2?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 [![badge](https://img.shields.io/badge/-Linux%20WSL2-f7a326?style=flat-square&logo=linux&logoColor=ffffff)](https://linux.org/)
 [![badge](https://img.shields.io/badge/-Windows%20Terminal-333333?style=flat-square&logo=WindowsTerminal&logoColor=ffffff)](https://www.microsoft.com/zh-cn/p/windows-terminal/9n0dx20hk701)
