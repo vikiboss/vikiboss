@@ -18,9 +18,9 @@ A Front-End bug coder, full of passion and love about the `FE`.
 [![badge](https://img.shields.io/badge/-Google%20Chrome-4c8bf4?style=flat-square&logo=GoogleChrome&logoColor=ffffff)](https://google.cn/chrome/)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vikiboss/vikiboss/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vikiboss/vikiboss/output/snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vikiboss/vikiboss/output/snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://proxy.viki.moe/vikiboss/vikiboss/output/snake-dark.svg?proxy-host=gh-raw.deno.dev">
+  <source media="(prefers-color-scheme: light)" srcset="https://proxy.viki.moe/vikiboss/vikiboss/output/snake.svg?proxy-host=gh-raw.deno.dev">
+  <img alt="github contribution grid snake animation" src="https://proxy.viki.moe/vikiboss/vikiboss/output/snake.svg?proxy-host=gh-raw.deno.dev">
 </picture>
 
 ![](https://komarev.com/ghpvc/?username=vikiboss&color=orange)
