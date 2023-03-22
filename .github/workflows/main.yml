@@ -1,9 +1,9 @@
 name: generate snake
 
 on:
-  # run automatically every 6 hours
+  # run automatically every 4 hours
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 */4 * * *"
 
   # allows to manually run the job at any time
   workflow_dispatch:
@@ -24,10 +24,10 @@ jobs:
         uses: Platane/snk/svg-only@v2
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
 
-      # push the content of <build_dir> to a branch
-      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
       - name: push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v2.5.0
         with:
