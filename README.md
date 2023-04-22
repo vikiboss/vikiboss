@@ -5,7 +5,7 @@
 - I'm interning at [SHEIN](https://www.sheingroup.com/) in China now.
 - I'm excited to use my coding skills to meet interesting people and do cool stuff 🤗.
 
-> Head to my [Notion Profile](https://www.notion.so/1d8789fe217f418094085d3c8f9afb83) for more details.
+> Head to my [Notion Profile](https://vmoe.notion.site/vmoe/Viki-1d8789fe217f418094085d3c8f9afb83) for more details.
 
 ![](https://komarev.com/ghpvc/?username=vikiboss&color=orange)
 
