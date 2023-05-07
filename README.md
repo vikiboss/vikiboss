@@ -1,11 +1,11 @@
-# 👋 Hey there! I'm Viki!
+# 👋 Hi there! I'm Viki!
 
-- I'm a newbie [Web](https://developer.mozilla.org/en-US/docs/Web) front-end developer 👨‍💻 from China.
-- I'm a huge fan of JavaScript/TypeScript/Node.js and etc 🥰.
-- I'm a senior student in China, interning at [SHEIN](https://www.sheingroup.com/) 🛍️ now.
-- I'm excited to use my coding skills to meet interesting people and do cool stuffs 🤗.
+- 👨‍💻 I'm passionate about **JavaScript/TypeScript/Node.js** and always eager to learn new things 🌟.
+- 🛍️ Currently interning at [SHEIN](https://www.sheingroup.com/) in China while completing my senior year of studies 🎓.
+- 🤝 I'm always looking to connect with interesting people and collaborate on cool projects.
+- 📖 Check out my [Notion profile](https://vmoe.notion.site/vmoe/Viki-1d8789fe217f418094085d3c8f9afb83) for more information and to get to know me better.
 
-> Head to my [Notion profile](https://vmoe.notion.site/vmoe/Viki-1d8789fe217f418094085d3c8f9afb83) for more details.
+Let's make something awesome together! 💪
 
 ![](https://komarev.com/ghpvc/?username=vikiboss&color=orange)
 
