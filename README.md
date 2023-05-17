@@ -15,7 +15,7 @@
   </picture>
 </a>
 
-## 🌟 GitHub Commit
+## 🌟 GitHub Commits
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://proxy.viki.moe/vikiboss/vikiboss/snake/snake-dark.svg?proxy-host=raw.githubusercontent.com">
