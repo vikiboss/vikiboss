@@ -7,11 +7,13 @@
 
 ## 📖 xLog Status
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://xlog-card.vercel.app/api/viki-8061?theme=light" />
-  <source media="(prefers-color-scheme: dark)" srcset="https://xlog-card.vercel.app/api/viki-8061?theme=dark" />
-  <img src="https://xlog-card.vercel.app/api/viki-8061?theme=light" alt="" />
-</picture>
+<a href="https://xlog.viki.moe" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://xlog-card.vercel.app/api/viki-8061?theme=light" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://xlog-card.vercel.app/api/viki-8061?theme=dark" />
+    <img src="https://xlog-card.vercel.app/api/viki-8061?theme=light" alt="" />
+  </picture>
+</a>
 
 ## 🌟 GitHub Commit
 
