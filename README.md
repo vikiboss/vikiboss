@@ -5,7 +5,7 @@
 - 🤝 I'm always looking to connect with interesting people and collaborate on cool projects.
 - 📖 Check out my [Notion profile](https://vmoe.notion.site/vmoe/Viki-1d8789fe217f418094085d3c8f9afb83) for more information and to get to know me better.
 
-## xLog Status
+## 📖 xLog Status
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://xlog-card.vercel.app/api/viki-8061?theme=light" />
@@ -13,7 +13,7 @@
   <img src="https://xlog-card.vercel.app/api/viki-8061?theme=light" alt="" />
 </picture>
 
-## GitHub Commit
+## 🌟 GitHub Commit
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://proxy.viki.moe/vikiboss/vikiboss/snake/snake-dark.svg?proxy-host=raw.githubusercontent.com">
