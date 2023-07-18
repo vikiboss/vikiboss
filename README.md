@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Viki!
 
 - 👨‍💻 I'm passionate about **JavaScript/TypeScript/Node.js** and always eager to learn new things 🌟.
-- 🛍️ Currently interning at [SHEIN](https://www.sheingroup.com) in China while completing my senior year of studies 🎓.
+- 🛍️ I'm currently working at a [SHEIN](https://www.sheingroup.com) in China.
 - 🤝 I'm always looking to connect with interesting people and collaborate on cool projects.
 - 📖 Check out my [Notion profile](https://vmoe.notion.site/vmoe/Viki-1d8789fe217f418094085d3c8f9afb83) or [xLog](https://xlog.viki.moe) for more information.
 
