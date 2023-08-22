@@ -5,6 +5,7 @@
 - 🤝 I'm always looking to connect with interesting people and collaborate on cool projects.
 - 📖 Check out my [Notion profile](https://vmoe.notion.site/vmoe/Viki-1d8789fe217f418094085d3c8f9afb83) or [xLog](https://xlog.viki.moe) for more information.
 
+<!-- 
 ## 📖 xLog Statistics
 
 <a href="https://xlog.viki.moe" target="_blank">
@@ -14,6 +15,7 @@
     <img src="https://xlog-card.vercel.app/api/viki-8061?theme=light" alt="" />
   </picture>
 </a>
+-->
 
 ## 🌟 GitHub Stats
 
