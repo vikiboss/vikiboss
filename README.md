@@ -15,7 +15,9 @@
   </picture>
 </a>
 
-## 🌟 GitHub Commits
+## 🌟 GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=vikiboss&show_icons=true&theme=calm)](https://github-readme-stats.vercel.app/api?username=vikiboss&show_icons=true&theme=calm)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://proxy.viki.moe/vikiboss/vikiboss/snake/snake-dark.svg?proxy-host=raw.githubusercontent.com">
