@@ -5,24 +5,26 @@ I'm Viki, a Front-end Engineer passionate about building modern web applications
 ## About Me
 
 - 🔭 Working on full-stack TypeScript applications and developer tools
-- 🌱 Constantly exploring JavaScript ecosystem and web performance optimization
+- 🌱 Constantly exploring JavaScript ecosystem and web applications
 - 💼 Currently at [SHEIN](https://github.com/sheinsight) enhancing developer experience
 - ⚡ Focused on: React, Node.js, TypeScript, and modern build tooling
 
 ## Tech Stack
 
-```typscript
-const skills: Record<string, string[]> = {
+```typescript
+type SkillType = 'languages' | 'frontend' | 'backend' | 'tools' | (string & {})
+
+const skills = {
   languages: ['JavaScript', 'TypeScript', 'HTML', 'CSS'],
   frontend: ['React', 'Electron', 'React Native', 'Vite', 'Webpack'],
   backend: ['Node.js', 'Prisma', 'NestJS', 'Express'],
   tools: ['Git', 'Docker', 'Bun', 'Deno', 'GitHub Actions', 'Vitest']
-};
+} satisfies Record<SkillType, string[]>
 ```
 
 ## Projects & Contributions
 
-I mostly work on developer tooling and infrastructure projects. Check my repositories for more details.
+I mostly work on developer tooling and infrastructure projects. Check my [repositories](https://github.com/vikiboss?tab=repositories&q=&type=source&language=&sort=stargazers) for more details.
 
 ## Connect
 
@@ -40,5 +42,5 @@ I mostly work on developer tooling and infrastructure projects. Check my reposit
 </picture>
 
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=vikiboss&color=grey&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=vikiboss&color=orange" alt="Profile views" />
 </div>
