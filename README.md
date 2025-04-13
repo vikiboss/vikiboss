@@ -1,30 +1,46 @@
-# 👋 Hi there! I'm Viki!
+# Hi there 👋
 
-- 👨‍💻 I'm passionate about **JavaScript/TypeScript/Node.js** and always eager to learn new things 🌟.
-- 🛍️ I'm currently working for [SHEIN](https://github.com/sheinsight) in China.
-- 🤝 I'm always looking to connect with interesting people and collaborate on cool projects.
-- 📖 Check out my [Notion](https://vmoe.notion.site/vmoe/Viki-1d8789fe217f418094085d3c8f9afb83) profile or [xLog](https://xlog.viki.moe) for more information.
+I'm Viki, a Front-end Engineer passionate about building modern web applications and contributing to open source.
 
-<!-- 
-## 📖 xLog Statistics
+## About Me
 
-<a href="https://xlog.viki.moe" target="_blank">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://xlog-card.vercel.app/api/viki-8061?theme=light" />
-    <source media="(prefers-color-scheme: dark)" srcset="https://xlog-card.vercel.app/api/viki-8061?theme=dark" />
-    <img src="https://xlog-card.vercel.app/api/viki-8061?theme=light" alt="" />
-  </picture>
-</a>
--->
+- 🔭 Working on full-stack TypeScript applications and developer tools
+- 🌱 Constantly exploring JavaScript ecosystem and web applications
+- 💼 Currently at [SHEIN](https://github.com/sheinsight) enhancing developer experience
+- ⚡ Focused on: React, Node.js, TypeScript, and modern build tooling
 
-## 🌟 GitHub Stats
+## Tech Stack
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=vikiboss&show_icons=true&theme=calm)](https://github-readme-stats.vercel.app/api?username=vikiboss&show_icons=true&theme=calm)
+```typescript
+type SkillType = 'languages' | 'frontend' | 'backend' | 'tools' | (string & {})
+
+const skills = {
+  languages: ['JavaScript', 'TypeScript', 'HTML', 'CSS'],
+  frontend: ['React', 'Electron', 'React Native', 'Vite', 'Webpack'],
+  backend: ['Node.js', 'Prisma', 'NestJS', 'Express'],
+  tools: ['Git', 'Docker', 'Bun', 'Deno', 'GitHub Actions', 'Vitest']
+} satisfies Record<SkillType, string[]>
+```
+
+## Projects & Contributions
+
+I mostly work on developer tooling and infrastructure projects. Check my [repositories](https://github.com/vikiboss?tab=repositories&q=&type=source&language=&sort=stargazers) for more details.
+
+## Connect
+
+- 📝 Technical notes: [Notion](https://vmoe.notion.site/vmoe/Viki-1d8789fe217f418094085d3c8f9afb83)
+- 📘 Blog: [xLog](https://xlog.viki.moe)
+
+## GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=vikiboss&show_icons=true&theme=default&hide_border=true&hide_title=true&count_private=true" alt="GitHub Stats" width="58%" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://proxy.viki.moe/vikiboss/vikiboss/snake/snake-dark.svg?proxy-host=raw.githubusercontent.com">
   <source media="(prefers-color-scheme: light)" srcset="https://proxy.viki.moe/vikiboss/vikiboss/snake/snake.svg?proxy-host=raw.githubusercontent.com">
-  <img alt="github contribution grid snake animation" src="https://proxy.viki.moe/vikiboss/vikiboss/snake/snake.svg?proxy-host=raw.githubusercontent.com">
+  <img alt="github contribution grid" src="https://proxy.viki.moe/vikiboss/vikiboss/snake/snake.svg?proxy-host=raw.githubusercontent.com" width="100%">
 </picture>
 
-![](https://komarev.com/ghpvc/?username=vikiboss&color=orange)
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=vikiboss&color=orange" alt="Profile views" />
+</div>
