@@ -8,7 +8,7 @@ I'm Viki, a Front-end Engineer passionate about building modern web applications
 - 🌱 Constantly exploring JavaScript ecosystem and web applications
 - 💼 Currently at [SHEIN](https://github.com/sheinsight) enhancing developer experience
 - ⚡ Focused on: React, Node.js, TypeScript, and modern build tooling
-- 📝 Also check my [Notion](https://vmoe.notion.site/vmoe/Viki-1d8789fe217f418094085d3c8f9afb83) & [xLog](https://xlog.viki.moe)
+- 📝 Also check my [Notion](https://vmoe.notion.site/vmoe/Viki-1d8789fe217f418094085d3c8f9afb83) & [Blog](https://blog.viki.moe)
 
 ## Tech Stack
 
