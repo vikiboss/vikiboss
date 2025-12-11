@@ -22,14 +22,12 @@ jobs:
 
     steps:
       - name: generate snake.svg
-        uses: Platane/snk/svg-only@v3
+        uses: 14Kay/generate-svg@master
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: push snake.svg to the snake branch
         uses: crazy-max/ghaction-github-pages@v2.5.0
