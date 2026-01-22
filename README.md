@@ -10,12 +10,7 @@ I'm a **Web Frontend Engineer** at [SHEIN](https://github.com/sheinsight), passi
 
 ## 🛠 Tech Stack
 
-I work primarily with **TypeScript** and the modern web stack:
-
-- **Frontend**: React, Vite, Next.js, TailwindCSS
-- **Backend**: Node.js, NestJS, Hono, Prisma
-- **Runtimes**: Node.js, Deno, Bun
-- **DevOps**: Docker, GitHub Actions
+Check it [here](https://blog.viki.moe/about#tech-stack).
 
 ## 📊 GitHub Stats
 
