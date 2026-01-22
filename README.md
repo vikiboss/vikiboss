@@ -10,11 +10,11 @@ I'm a **Web Frontend Engineer** at [SHEIN](https://github.com/sheinsight), passi
 
 ## 🍱 Projects
 
-Check it [on my blog](https://blog.viki.moe/about#open-source).
+Check it on the [About](https://blog.viki.moe/about#open-source) page of my blog.
 
 ## 🛠 Tech Stack
 
-Check it [on my blo](https://blog.viki.moe/about#tech-stack).
+Check it on the [About](https://blog.viki.moe/about#tech-stack) page of my blog.
 
 ## 📊 GitHub Stats
 
