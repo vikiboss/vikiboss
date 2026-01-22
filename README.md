@@ -8,16 +8,20 @@ I'm a **Web Frontend Engineer** at [SHEIN](https://github.com/sheinsight), passi
 - 💬 **Thoughts**: [blog.viki.moe/thoughts](https://blog.viki.moe/thoughts)
 - 📧 **Email**: [hi@viki.moe](mailto:hi@viki.moe)
 
+## 🍱 Projects
+
+Check it [on my blog](https://blog.viki.moe/about#open-source).
+
 ## 🛠 Tech Stack
 
-Check it [here](https://blog.viki.moe/about#tech-stack).
+Check it [on my blo](https://blog.viki.moe/about#tech-stack).
 
 ## 📊 GitHub Stats
 
 <!-- This service is currently experiencing issues and is temporarily disabled. -->
-<!-- <div align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vikiboss&show_icons=true&theme=default&hide_border=true&hide_title=true&count_private=true" alt="GitHub Stats" width="58%" />
-</div> -->
+</div>
 
 <div align="center">
   <picture>
