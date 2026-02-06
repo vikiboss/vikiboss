@@ -19,9 +19,7 @@ Check it on the [About](https://blog.viki.moe/about#tech-stack) page of my blog.
 ## 📊 GitHub Stats
 
 <!-- This service is currently experiencing issues and is temporarily disabled. -->
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikiboss&show_icons=true&theme=default&hide_border=true&hide_title=true&count_private=true" alt="GitHub Stats" width="58%" />
-</div>
+![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=vikiboss)
 
 <div align="center">
   <picture>
