@@ -8,13 +8,9 @@ I'm a **Web Frontend Engineer** at [SHEIN](https://github.com/sheinsight), passi
 - 💬 **Thoughts**: [blog.viki.moe/thoughts](https://blog.viki.moe/thoughts)
 - 📧 **Email**: [hi@viki.moe](mailto:hi@viki.moe)
 
-## 🍱 Projects
+## 🍱 Projects & 🛠 Tech Stack
 
-Check it on the [About](https://blog.viki.moe/about#open-source) page of my blog.
-
-## 🛠 Tech Stack
-
-Check it on the [About](https://blog.viki.moe/about#tech-stack) page of my blog.
+Check it on the [about](https://blog.viki.moe/about#open-source) page of my blog.
 
 ## 📊 GitHub Stats
 
