@@ -2,7 +2,7 @@
 
 > "Less is more"
 
-I'm a **Web Frontend Engineer** at [SHEIN](https://github.com/sheinsight), passionate about building modern web applications, developer tools, and infrastructure. I love exploring the JavaScript ecosystem and contributing to open source.
+I'm a Web Frontend Engineer, passionate about building modern web applications, developer tools, and infrastructure. I love exploring the JavaScript ecosystem and contributing to open source.
 
 - 📝 **Blog**: [blog.viki.moe](https://blog.viki.moe/)
 - 💬 **Thoughts**: [blog.viki.moe/thoughts](https://blog.viki.moe/thoughts)
